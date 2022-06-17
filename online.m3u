@@ -1,43 +1,66 @@
 #EXTM3U
-PERU
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Panamericana-TV-en-vivo-Online.png" group-title="Peru",Panamericana
-https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFj0PBT7HdTDmVtnjUePJhZc)/dm/3/x774s7s/s/live-2.m3u8
+=================PERU===========
 
-#EXTINF:-1 tvg-logo="https://scontent.ftru2-1.fna.fbcdn.net/v/t1.6435-9/117713935_915469812269816_1377028511689639241_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=K2xxdGzXjgsAX-EFoga&_nc_ht=scontent.ftru2-1.fna&oh=00_AT94a5oIxXK2-uxuTQ2bn5T1-6oze1W3ipdqKqed0n7y0w&oe=621433E8" group-title="Peru",Moda huancayo tv
+#EXTINF:-1 tvg-logo="https://onx.la/08eab" group-title="Streaming",Panamericana
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://onx.la/ee99e" group-title="Streaming",Moda huancayo tv
 https://s1.tvdatta.com:3212/live/modahuancayotvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Top_Latino.png" group-title="Peru",Top Latino
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Top_Latino.png" group-title="Streaming",Top Latino
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png" group-title="Peru",Antares Tv
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png" group-title="Streaming",Antares Tv
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1033447876.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ3NmFjYjQtNzM2Yi00NDEyLTgzYjMtMzFjODAwMjg2NzUzXkEyXkFqcGdeQXVyNjM2NDIwMzQ@._V1_.jpg" group-title="Peru",Anime Zone TV
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ3NmFjYjQtNzM2Yi00NDEyLTgzYjMtMzFjODAwMjg2NzUzXkEyXkFqcGdeQXVyNjM2NDIwMzQ@._V1_.jpg" group-title="Streaming",Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/3IIkpertjCteiRrdWiihJRiIZm-lqvn3svYrIFA8zteurbm3Lq8Bg0knhgze1ETYndM_92hH7w=s88-c-k-c0x00ffffff-no-rj" group-title="Peru",TV Cosmos
+#EXTINF:-1 tvg-logo="https://onx.la/aa161" group-title="Streaming",TV Cosmos
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w781411635.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Global_TV_2019.png" group-title="Peru",Global TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Global_TV_2019.png" group-title="Streaming",Global TV
 http://190.108.83.142:8000/play/a00x/16920328.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Peru",TV Perú
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Streaming",TV Perú
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Visi%C3%B3n-TV-M%C3%BAsica-en-vivo-Online.png" group-title="Peru",Vision Tv Musica
-https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/chunklist_w1944783043.m3u8
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Visi%C3%B3n-TV-M%C3%BAsica-en-vivo-Online.png" group-title="Streaming",Vision Tv Musica
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w1052591118.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/IPe_2019.svg/revision/latest/scale-to-width-down/1000?cb=20210417040243&path-prefix=es" group-title="Peru",Ipe
+#EXTINF:-1 tvg-logo="https://onx.la/4231e" group-title="Streaming",Ipe
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=272x10000:format=jpg/path/s86a1480785a470a0/image/iec1f514e68ac327e/version/1615874753/image.jpg" group-title="Peru",Genios TV
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/geniostvmoyobamba/picture?width=320&height=320" group-title="Streaming",Genios TV
 https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Peru",ATV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Streaming",ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
 
-"Musica"
+
+#EXTINF:-1 tvg-logo="https://onx.la/cf46f" group-title="Streaming",Autenticatv
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://onx.la/23b71" group-title="Streaming",Oktv
+https://live.obslivestream.com/oktv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://onx.la/844c4" group-title="Streaming",Atv +
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://onx.la/52009" group-title="Streaming",VNP HD
+https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Streaming",
+
+
+#EXTINF:-1 tvg-logo="" group-title="Streaming",
+
+
+
+
+================MÚSICA===============
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MfYGt6f-FNQ/XmWIp_jDYpI/AAAAAAAAwsg/7Yn3jbMYdRIJWMFC3S1YbS2hQT3XBMiOgCK8BGAsYHg/s0/2020-03-08.png" group-title="Musica",Radio Kpop
 https://tls-cl.cdnz.cl/adgm-2/live/chunklist_w408812895.m3u8?WebM3UCL
@@ -49,38 +72,90 @@ https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?WebM3U
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png" group-title="Musica",Mas Cumbia
-https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/tracks-v1a1/mono.m3u8
+https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png" group-title="Musica",Turbo Mix Tv
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Music_Top.png" group-title="Musica",Music top
+#EXTINF:-1 tvg-logo="https://onx.la/25d64" group-title="Musica",Music top
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w2147065218_b2028000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/Carolina-TV-en-vivo-Online.png" group-title="Musica",Carolina TV
-http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream0/chunks.m3u8?nimblesessionid=2391753
+https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/molatv.png" group-title="Musica",Mola TV
+#EXTINF:-1 tvg-logo="https://onx.la/5f60c" group-title="Musica",Mola TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-tgkESVUJWRI/XkyfsBVW_mI/AAAAAAAAwHw/xsYoralOutAlHw-iMJC9nl1hdd6vKqznQCK8BGAsYHg/s0/2020-02-18.png" group-title="Musica",Genial TV
 https://v2.tustreaming.cl/genialtv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://onx.la/425ed" group-title="Musica",Karibeña tv
+https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://onx.la/9c625" group-title="Musica",Onda Digital TV
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://acortar.link/taDG2t" group-title="Musica",Planeta TV music
+https://mediacpstreamchile.com:1936/8042/8042/chunklist_w127369476.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Musica",
 #EXTINF:-1 tvg-logo="" group-title="Musica",
 
 
 
-Entretenimiento
+==========ENTRETENIMIENTO=========
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/823/555/png-clipart-univision-doral-logo-television-advertising-business-television-text-thumbnail.png" group-title="Entretenimiento",Univision
+#EXTINF:-1 tvg-logo="https://onx.la/403c3" group-title="Entretenimiento",Univision
 https://inliveserver.com:1936/10016/10016/chunklist_w517787609.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/9374c535562f863ab536cb264e20d812.png" group-title="Entretenimiento",Telesur Costa Rica
 https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w380490534.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image38313182164.jpg" group-title="Entretenimiento",Central TV
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/chunklist_w1580030409.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento" 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMX3UOdCHcmTSutgJ4VN5dsEtZ6T2wGREPXg&usqp=CAU" group-title="Entretenimiento",KBO
+https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 
+#EXTINF:-1 tvg-logo="https://onx.la/20f43" group-title="Entretenimiento",Anzoategui TV
+http://vcp1.myplaytv.com:1935/anzoateguitv/anzoateguitv/chunklist_w2080007100.m3u8
+
+#EXTINF:-1 tvg-logo="https://onx.la/9c625" group-title="Entretenimiento",Onda Digital tv
+https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://onx.la/4415b" group-title="Entretenimiento",Uranio Tv
+https://live.obslivestream.com/uraniomux/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://onx.la/7c190" group-title="Entretenimiento",Unitel HD
+https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/chunklist_w2000926026.m3u8
+
+#EXTINF:-1 tvg-logo="https://onx.la/49ac5" group-title="Entretenimiento",Canal Once
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
+
+#EXTINF:-1 tvg-logo="https://acortar.link/taDG2t" group-title="Entretenimiento",Planeta TV movie
+https://mediacpstreamchile.com:1936/8140/8140/chunklist_w214365551.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
+
+===========INFANTIL===========
+
+
+#EXTINF:-1 tvg-logo="https://onx.la/da840" group-title="Infantil",Latino kids tv
+https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://acortar.link/taDG2t" group-title="Infantil",Planeta TV Kids
+https://mediacpstreamchile.com:1936/8152/8152/chunklist_w1540778013.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantil",
+
+
+#EXTINF:-1 tvg-logo="" group-title="Infantil",
+
+
+============Peliculas==========
+
+
+EXTINF:-1 tvg-logo="https://cds.tvgo.pe/f/desktop/img/tvgo-2020-invertido.svg" group-title="película",America hd 
+http://177.126.50.94:8000/play/a07v/index.m3u8
+http://54.39.16.47:25461/live/402980640/402980640/20220.m3u8
