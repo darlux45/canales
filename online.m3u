@@ -110,7 +110,6 @@ https://inliveserver.com:1936/10016/10016/chunklist_w517787609.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/9374c535562f863ab536cb264e20d812.png" group-title="Entretenimiento",Telesur Costa Rica
 https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w380490534.m3u8?WebM3UCL
 
-
 #EXTINF:-1 tvg-logo="https://onx.la/bb119" group-title="Entretenimiento",Sony Channel 
 https://vsd65.mycdn.me/hls/2436287629895.m3u8/sig/FO7x8_z0wMU/expires/1655748602022/srcIp/181.64.217.6/clientType/1/srcAg/CHROME_ANDROID/mid/5485835001415/video.m3u8?p
 
@@ -135,7 +134,15 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/taDG2t" group-title="Entretenimiento",Planeta TV movie
 https://mediacpstreamchile.com:1936/8140/8140/chunklist_w214365551.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="https://onx.la/35552" group-title="Entretenimiento",Warnes Channel 
+https://vsd70.mycdn.me/hls/2621699918420.m3u8/sig/iEL2APk2lrY/expires/1655853459266/srcIp/181.64.217.6/clientType/0/srcAg/CHROME_ANDROID/mid/3805378518612/video.m3u8?p
+
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
+
 
 ===========INFANTIL===========
 
