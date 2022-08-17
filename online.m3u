@@ -97,7 +97,16 @@ https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/taDG2t" group-title="Musica",Planeta TV music
 https://mediacpstreamchile.com:1936/8042/8042/chunklist_w127369476.m3u8
 
+#EXTINF:-1 tvg-logo="https://onx.la/99b94" group-title="Musica",Radio San Borja TV
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="Musica",
+
+#EXTINF:-1 tvg-logo="" group-title="Musica",
+
+#EXTINF:-1 tvg-logo="" group-title="Musica",
+
 #EXTINF:-1 tvg-logo="" group-title="Musica",
 
 
