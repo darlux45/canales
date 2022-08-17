@@ -146,7 +146,8 @@ https://mediacpstreamchile.com:1936/8140/8140/chunklist_w214365551.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://onx.la/35552" group-title="Entretenimiento",Warnes Channel 
 https://vsd70.mycdn.me/hls/2621699918420.m3u8/sig/iEL2APk2lrY/expires/1655853459266/srcIp/181.64.217.6/clientType/0/srcAg/CHROME_ANDROID/mid/3805378518612/video.m3u8?p
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
+#EXTINF:-1 tvg-logo="https://onx.la/a43b5" group-title="Entretenimiento",Viwix TV Estrenos
+https://cloudvideo.servers10.com:8081/8212/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
 
