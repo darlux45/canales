@@ -143,11 +143,12 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/taDG2t" group-title="Entretenimiento",Planeta TV movie
 https://mediacpstreamchile.com:1936/8140/8140/chunklist_w214365551.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://onx.la/35552" group-title="Entretenimiento",Warnes Channel 
-https://vsd70.mycdn.me/hls/2621699918420.m3u8/sig/iEL2APk2lrY/expires/1655853459266/srcIp/181.64.217.6/clientType/0/srcAg/CHROME_ANDROID/mid/3805378518612/video.m3u8?p
+#EXTINF:-1 tvg-logo="https://onx.la/35552" group-title="Entretenimiento",Warnes Channel
+https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=a5e974eb092d3d395b07b7b3166a7de00644c846&st.mq=1&st.mvid=4005268954708&st.ip=181.64.217.6&st.dla=on&st.exp=1661089517768&st.hls=off&_prevCmd=movieLayer&tkn=1264 
 
 #EXTINF:-1 tvg-logo="https://onx.la/a43b5" group-title="Entretenimiento",Viwix TV Estrenos
 https://cloudvideo.servers10.com:8081/8212/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
 
@@ -168,5 +169,7 @@ https://mediacpstreamchile.com:1936/8152/8152/chunklist_w1540778013.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Infantil",
+
+
 
 
