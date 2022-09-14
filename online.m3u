@@ -150,7 +150,7 @@ https://mediacpstreamchile.com:1936/8140/8140/chunklist_w214365551.m3u8?WebM3UCL
 https://vsd157.mycdn.me/hls/2875627473492.m3u8/sig/UGOEV0ZPuDc/expires/1661004017652/srcIp/181.64.217.6/clientType/1/srcAg/CHROME_ANDROID/mid/4005268954708/video.m3u8?p 
 
 #EXTINF:-1 tvg-logo="https://onx.la/a43b5" group-title="Entretenimiento",Viwix TV Estrenos
-https://cloudvideo.servers10.com:8081/8212/tracks-v1a1/mono.m3u8
+https://s2.tvdatta.com:3172/hybrid/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
