@@ -2,9 +2,17 @@
 
 =================PERU===========
 
--------PANAMERICANA---
+-----------AMERICA TV---------
+#EXTINF:-1 tvg-logo="https://acortar.link/FH4U1P" group-title="Streaming",America TV
+https://acortar.link/BGrzsk
+
+-------PANAMERICANA----------
 #EXTINF:-1 tvg-logo="https://onx.la/08eab" group-title="Streaming",Panamericana
 https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+-----------ATV----------
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Streaming",ATV
+https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
 
 -------MODA HUANCAYO TV-----
 #EXTINF:-1 tvg-logo="https://onx.la/ee99e" group-title="Streaming",Moda huancayo tv
@@ -45,10 +53,6 @@ https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 -----------GENIOS TV----------
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/geniostvmoyobamba/picture?width=320&height=320" group-title="Streaming",Genios TV
 https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
-
------------ATV----------
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Streaming",ATV
-https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
 
 -------------AUTENTICATV------
 #EXTINF:-1 tvg-logo="https://onx.la/cf46f" group-title="Streaming",Autenticatv
@@ -162,10 +166,12 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/taDG2t" group-title="Entretenimiento",Planeta TV movie
 https://mediacpstreamchile.com:1936/8140/8140/chunklist_w214365551.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://onx.la/35552" group-title="Entretenimiento",Warnes Channel
-https://vsd157.mycdn.me/hls/2875627473492.m3u8/sig/UGOEV0ZPuDc/expires/1661004017652/srcIp/181.64.217.6/clientType/1/srcAg/CHROME_ANDROID/mid/4005268954708/video.m3u8?p 
+----------UNICA TV---------
+#EXTINF:-1 tvg-logo="https://onx.la/35552" group-title="Entretenimiento",Única Tv
+https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://onx.la/a43b5" group-title="Entretenimiento",Viwix TV Estrenos
+-----------VIWIX TV----------
+#EXTINF:-1 tvg-logo="https://acortar.link/WAdRQa" group-title="Entretenimiento",Viwix TV Estrenos
 https://s2.tvdatta.com:3172/hybrid/play.m3u8
 
 
@@ -184,11 +190,15 @@ https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-logo="https://acortar.link/taDG2t" group-title="Infantil",Planeta TV Kids
 https://mediacpstreamchile.com:1936/8152/8152/chunklist_w1540778013.m3u8
 
+------------KNAL4-----------
+#EXTINF:-1 tvg-logo="https://acortar.link/uWloN9" group-title="Infantil",Knal 4
+https://cdn.streamhispanatv.net:3261/live/knal4gtlive.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Infantil",
 
-
 #EXTINF:-1 tvg-logo="" group-title="Infantil",
 
+#EXTINF:-1 tvg-logo="" group-title="Infantil",
 
 
 
