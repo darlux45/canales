@@ -9,7 +9,7 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 https://s1.tvdatta.com:3212/live/modahuancayotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://onx.la/e09c5" group-title="Streaming",Top Latino
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/chunklist_w2123109262.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png" group-title="Streaming",Antares Tv
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1033447876.m3u8
