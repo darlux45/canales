@@ -14,6 +14,10 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Streaming",ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
 
+-----------LA TELE----------
+#EXTINF:-1 tvg-logo="https://onx.la/2e081" group-title="Streaming",La Tele
+https://channelsclarovideo.blitzz07.repl.co/la_tele.html
+
 -------MODA HUANCAYO TV-----
 #EXTINF:-1 tvg-logo="https://onx.la/ee99e" group-title="Streaming",Moda huancayo tv
 https://s1.tvdatta.com:3212/live/modahuancayotvlive.m3u8
@@ -34,7 +38,7 @@ http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://onx.la/aa161" group-title="Streaming",TV Cosmos
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w781411635.m3u8
 
-
+----------GLOBAL TV---------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Global_TV_2019.png" group-title="Streaming",Global TV
 http://190.108.83.142:8000/play/a00x/index.m3u8
 
