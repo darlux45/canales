@@ -36,7 +36,7 @@ https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w781411635.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Global_TV_2019.png" group-title="Streaming",Global TV
-http://190.108.83.142:8000/play/a00x/16920328.m3u8
+http://190.108.83.142:8000/play/a00x/index.m3u8
 
 -----------TV PERU------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Streaming",TV Perú
