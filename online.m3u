@@ -4,8 +4,7 @@
 
 -----------AMERICA TV---------
 #EXTINF:-1 tvg-logo="https://onx.la/5032c" group-title="Streaming",America TV
-http://player.streamingtvguides.com/?src=https%3A%2F%2Fus-b4-p-e-qg12.cdn.mdstrm.com%2Flive-stream-secure%2F6099b04d9418ac082441dd74%2Fpublish%2Fmedia_2500.m3u8%3Faid%3D5b8ea6f89ff52d0770a144c4%26uid%3DB6Xfxu0njI5ydIKq2lvk3imTVJxfEvJT%26sid%3D1MRTXRU50Dbd0Wgekzyi4KdMqLSVng7h%26pid%3DATmRnrGxRXbM0wQI6px6H6o4HEXwcgcE%26ref%3Dhttps%253A%252F%252Ftvgo.americatv.com.pe%252F%26without_cookies%3Dfalse%26listenerid%3D%26dnt%3Dtrue%26access_token%3DXxxqrgXnfjXxfrj8jyQ3gFsIK2WzHl8R3NJq5RDOXb8lNTNsDIFdzBiCsMOti70Uebw70l9YRAS%26es%3Dus-b4-p-e-qg12.cdn.mdstrm.com%26ote%3D1663639928745%26ot%3DTvlTMIjpR1zvIEdlI403WA%26proto%3Dhttps%26pz%3Dus&demoConfig=eyJlbmFibGVTdHJlYW1pbmciOnRydWUsImF1dG9SZWNvdmVyRXJyb3IiOnRydWUsImVuYWJsZVdvcmtlciI6dHJ1ZSwiZHVtcGZNUDQiOmZhbHNlLCJsZXZlbENhcHBpbmciOi0xLCJsaW1pdE1ldHJpY3MiOi0xLCJ3aWRldmluZUxpY2Vuc2VVcmwiOiIifQ==
-
+https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=RswZFrZSIa3Mir2vevT4D0h2gCnIMVHE&sid=PP7P9tNFFLLpoHVy8U7VOugVOq41kH4b&pid=iwLDUPiuhaUgG0r077aCCudEBlc0sOTv&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=giSJTMjtLJze9FtwK3SrKO4Y4vCIO8ufvYWk5AM7tv6xZt7Sh7a0777etoFJezuYWm2PN17blpm&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1663641434674&ot=854z63QMUi0Dghgw2HXO1g&proto=https&pz=us
 -------PANAMERICANA----------
 #EXTINF:-1 tvg-logo="https://onx.la/08eab" group-title="Streaming",Panamericana
 https://cdnhd.iblups.com/hls/ptv2.m3u8
