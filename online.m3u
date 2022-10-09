@@ -82,7 +82,9 @@ https://edge1o.live.opencaster.com/caster/ztCaDbjyCrwa.m3u8
 #EXTINF:-1 tvg-logo="https://onx.la/baa8c" group-title="Streaming",Vía Altomayo tv
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Streaming",
+--------------VisionSur-----------
+#EXTINF:-1 tvg-logo="https://onx.la/478ed" group-title="Streaming",VisionSur
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Streaming",
 
