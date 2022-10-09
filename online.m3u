@@ -78,7 +78,8 @@ https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m
 #EXTINF:-1 tvg-logo="https://onx.la/3f94b" group-title="Streaming",Canal 21 huancayo 
 https://edge1o.live.opencaster.com/caster/ztCaDbjyCrwa.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Streaming",
+#EXTINF:-1 tvg-logo="https://onx.la/baa8c" group-title="Streaming",Vía Altomayo
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Streaming",
 
