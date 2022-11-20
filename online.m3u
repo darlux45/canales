@@ -39,7 +39,7 @@ http://azxtv.com/hls/stream.m3u8
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w781411635.m3u8
 
 ----------GLOBAL TV---------
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Global_TV_2019.png" group-title="Streaming",Global TV
+#EXTINF:-1 tvg-logo="https://onx.la/d2148" group-title="Streaming",Global TV
 http://190.108.83.142:8000/play/a00x/index.m3u8
 
 -----------TV PERU------
