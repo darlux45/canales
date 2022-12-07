@@ -6,17 +6,25 @@
 #EXTINF:-1 tvg-logo="https://onx.la/5032c" group-title="Streaming",America TV
 https://upstream.to/embed-z0gfj5de7qil.html
 
--------PANAMERICANA----------
-#EXTINF:-1 tvg-logo="https://onx.la/08eab" group-title="Streaming",Panamericana
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-
 -----------ATV----------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Streaming",ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
 
+-------PANAMERICANA----------
+#EXTINF:-1 tvg-logo="https://acortar.link/wqXCg1" group-title="Streaming",Panamericana
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
 -----------LA TELE----------
 #EXTINF:-1 tvg-logo="https://onx.la/cfb57" group-title="Streaming",La Tele
 https://channelsclarovideo.blitzz07.repl.co/la_tele.html
+
+----------GLOBAL TV---------
+#EXTINF:-1 tvg-logo="https://onx.la/d2148" group-title="Streaming",Global TV
+http://190.108.83.142:8000/play/a00x/index.m3u8
+
+----------TV COSMOS---------
+#EXTINF:-1 tvg-logo="https://onx.la/aa161" group-title="Streaming",TV Cosmos
+https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w781411635.m3u8
 
 -------MODA HUANCAYO TV-----
 #EXTINF:-1 tvg-logo="https://onx.la/ee99e" group-title="Streaming",Moda huancayo tv
@@ -33,14 +41,6 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1
 ---------ANIME ZONE TV-------
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ3NmFjYjQtNzM2Yi00NDEyLTgzYjMtMzFjODAwMjg2NzUzXkEyXkFqcGdeQXVyNjM2NDIwMzQ@._V1_.jpg" group-title="Streaming",Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
-
-----------TV COSMOS---------
-#EXTINF:-1 tvg-logo="https://onx.la/aa161" group-title="Streaming",TV Cosmos
-https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w781411635.m3u8
-
-----------GLOBAL TV---------
-#EXTINF:-1 tvg-logo="https://onx.la/d2148" group-title="Streaming",Global TV
-http://190.108.83.142:8000/play/a00x/index.m3u8
 
 -----------TV PERU------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Streaming",TV Perú
