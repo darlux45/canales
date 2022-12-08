@@ -26,6 +26,10 @@ http://190.108.83.142:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-logo="https://onx.la/aa161" group-title="Streaming",TV Cosmos
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w781411635.m3u8
 
+--------------ATV+------------
+#EXTINF:-1 tvg-logo="https://onx.la/844c4" group-title="Streaming",Atv +
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
+
 --------TOP LATINO-------
 #EXTINF:-1 tvg-logo="https://onx.la/e09c5" group-title="Streaming",Top Latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/chunklist_w571863660.m3u8
@@ -62,17 +66,9 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-logo="https://onx.la/23b71" group-title="Streaming",Oktv
 https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 
---------------ATV+------------
-#EXTINF:-1 tvg-logo="https://onx.la/844c4" group-title="Streaming",Atv +
-https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
-
 --------------VNP HD-------------
 #EXTINF:-1 tvg-logo="https://onx.la/52009" group-title="Streaming",VNP HD
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
-
-----------------Chincha TV-------------
-#EXTINF:-1 tvg-logo="https://acortar.link/CXDAEL" group-title="Streaming",Chincha TV
-https://tvdatta.com:3548/live/chinchatvlive.m3u8
 
 ----------via altomayo tv ----------
 #EXTINF:-1 tvg-logo="https://onx.la/baa8c" group-title="Streaming",Vía Altomayo tv
@@ -82,7 +78,20 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 tvg-logo="https://onx.la/478ed" group-title="Streaming",VisionSur
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="" group-title="Streaming",
+
+#EXTINF:-1 tvg-logo="" group-title="Streaming",
+
+#EXTINF:-1 tvg-logo="" group-title="Streaming",
+
+#EXTINF:-1 tvg-logo="" group-title="Streaming",
+
+#EXTINF:-1 tvg-logo="" group-title="Streaming",
+
+#EXTINF:-1 tvg-logo="" group-title="Streaming",
+
 
 ================MÚSICA===============
 
@@ -119,14 +128,14 @@ https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
 #EXTINF:-1 tvg-logo="https://onx.la/9c625" group-title="Musica",Onda Digital TV
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://acortar.link/taDG2t" group-title="Musica",Planeta TV music
-https://mediacpstreamchile.com:1936/8042/8042/chunklist_w127369476.m3u8
-
 #EXTINF:-1 tvg-logo="https://onx.la/99b94" group-title="Musica",Radio San Borja TV
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 
+----------------Charapa TV-------------------
+#EXTINF:-1 tvg-logo="https://acortar.link/COz3wi" group-title="Musica",Charapa TV
+https://cloudvideo.servers10.com:8081/8168/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Musica",
+
 
 #EXTINF:-1 tvg-logo="" group-title="Musica",
 
@@ -199,14 +208,14 @@ https://tvdatta.com:3548/live/chinchatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://onx.la/da840" group-title="Infantil",Latino kids tv
 https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://acortar.link/taDG2t" group-title="Infantil",Planeta TV Kids
-https://mediacpstreamchile.com:1936/8152/8152/chunklist_w1540778013.m3u8
-
 ------------KNAL4-----------
 #EXTINF:-1 tvg-logo="https://acortar.link/uWloN9" group-title="Infantil",Knal 4
 https://cdn.streamhispanatv.net:3261/live/knal4gtlive.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Infantil",
+------------------PLANETATV KIDS------------
+#EXTINF:-1 tvg-logo="https://acortar.link/VwY2p3" group-title="Infantil",PLANETATV KIDS
+https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Infantil",
 
