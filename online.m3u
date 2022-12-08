@@ -70,9 +70,9 @@ https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF:-1 tvg-logo="https://onx.la/52009" group-title="Streaming",VNP HD
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://onx.la/3f94b" group-title="Streaming",Canal 21 huancayo 
-https://edge1o.live.opencaster.com/caster/ztCaDbjyCrwa.m3u8
+----------------Chincha TV-------------
+#EXTINF:-1 tvg-logo="https://acortar.link/CXDAEL" group-title="Streaming",Chincha TV
+https://tvdatta.com:3548/live/chinchatvlive.m3u8
 
 ----------via altomayo tv ----------
 #EXTINF:-1 tvg-logo="https://onx.la/baa8c" group-title="Streaming",Vía Altomayo tv
@@ -167,11 +167,8 @@ https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/chunklist_w2000926026.m3u
 #EXTINF:-1 tvg-logo="https://onx.la/49ac5" group-title="Entretenimiento",Canal Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
 
-#EXTINF:-1 tvg-logo="https://acortar.link/taDG2t" group-title="Entretenimiento",Planeta TV movie
-https://mediacpstreamchile.com:1936/8140/8140/chunklist_w214365551.m3u8?WebM3UCL
-
 ----------UNICA TV---------
-#EXTINF:-1 tvg-logo="https://onx.la/35552" group-title="Entretenimiento",Única Tv
+#EXTINF:-1 tvg-logo="https://acortar.link/Fe3FkP" group-title="Entretenimiento",Única Tv
 https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8
 
 -----------VIWIX TV----------
@@ -182,8 +179,18 @@ https://s2.tvdatta.com:3172/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://onx.la/ee794" group-title="Entretenimiento",Wow Tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
+----------------Chincha TV-------------
+#EXTINF:-1 tvg-logo="https://acortar.link/CXDAEL" group-title="Entretenimiento",Chincha TV
+https://tvdatta.com:3548/live/chinchatvlive.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
 
 
 ===========INFANTIL===========
