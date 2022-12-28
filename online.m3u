@@ -192,8 +192,10 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/CXDAEL" group-title="Entretenimiento",Chincha TV
 https://tvdatta.com:3548/live/chinchatvlive.m3u8
 
+----------------cosmos Tv---------------
+#EXTINF:-1 tvg-logo="https://acortar.link/xCexcC" group-title="Entretenimiento",cosmos Tv
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
 
