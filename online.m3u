@@ -14,6 +14,10 @@ https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/wqXCg1" group-title="Streaming",Panamericana
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
+-------------LATINA--------------
+#EXTINF:-1 tvg-logo="https://acortar.link/lUEF33" group-title="Streaming",Latina
+https://mdstrm.com/live-stream/5ce7109c7398b977dc0744cd?autoplay=false&player=60351d053a482d07eeef8770
+
 -----------LA TELE----------
 #EXTINF:-1 tvg-logo="https://onx.la/cfb57" group-title="Streaming",La Tele
 https://channelsclarovideo.blitzz07.repl.co/la_tele.html
