@@ -201,8 +201,11 @@ https://tvdatta.com:3548/live/chinchatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/qlzlAg" group-title="Entretenimiento",cosmos Tv
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
+----------------multimedios canal 6---------------
+#EXTINF:-1 tvg-logo="https://acortar.link/UxajAQ" group-title="Entretenimiento",Multimedios Canal 6
+https://mdstrm.com/live-stream/57b4dbf5dbbfc8f16bb63ce1
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
+
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
 
