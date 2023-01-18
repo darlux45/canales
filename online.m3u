@@ -152,9 +152,11 @@ https://cloudvideo.servers10.com:8081/8168/index.m3u8
 
 ==========ENTRETENIMIENTO=========
 
+---------------------Univision---------------------
 #EXTINF:-1 tvg-logo="https://onx.la/403c3" group-title="Entretenimiento",Univision
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
 
+-------------------Telesur Costa Rica----------------
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/9374c535562f863ab536cb264e20d812.png" group-title="Entretenimiento",Telesur Costa Rica
 https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w380490534.m3u8?WebM3UCL
 
@@ -162,10 +164,11 @@ https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w380490534.m3u8?W
 #EXTINF:-1 tvg-logo="https://acortar.link/3RRooQ" group-title="Entretenimiento",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-
+------------------KBO-----------------
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMX3UOdCHcmTSutgJ4VN5dsEtZ6T2wGREPXg&usqp=CAU" group-title="Entretenimiento",KBO
 https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 
+------------------Anzoategui TV---------------
 #EXTINF:-1 tvg-logo="https://onx.la/20f43" group-title="Entretenimiento",Anzoategui TV
 http://vcp1.myplaytv.com:1935/anzoateguitv/anzoateguitv/chunklist_w2080007100.m3u8
 
@@ -205,11 +208,19 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/UxajAQ" group-title="Entretenimiento",Multimedios Canal 6
 https://mdstrm.com/live-stream/57b4dbf5dbbfc8f16bb63ce1
 
+--------------------Cadena TV---------------------
+#EXTINF:-1 tvg-logo="https://acortar.link/T98PXf" group-title="Entretenimiento",Cadena TV
+https://servilive.com:3079/live/cdnatvlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
-
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
+
+
 
 
 ===========INFANTIL===========
@@ -230,6 +241,8 @@ https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infantil",
 
 #EXTINF:-1 tvg-logo="" group-title="Infantil",
+
+
 
 
 =====================PREMIUM====================
