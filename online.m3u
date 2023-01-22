@@ -84,10 +84,11 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
 =======================
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/warner.json
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" tvg-group="Premium", WARNER
 https://dtvott-cbc.akamaized.net/dash_live_1248/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/warner.json
+
 
 =========================
 #EXTINF:-1 tvg-logo="https://acortar.link/yBYykp" group-title="Streaming",Warner Channel
