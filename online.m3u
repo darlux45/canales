@@ -86,7 +86,7 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/warner.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" tvg-group="CINE Y SERIES", WARNER
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" tvg-group="Premium", WARNER
 https://dtvott-cbc.akamaized.net/dash_live_1248/manifest.mpd
 
 =========================
@@ -269,7 +269,7 @@ https://vercomofutbol.xyz/embed/bit.html?update LA
 
 ---------------Peliculas------------
 
-#EXTINF:-1 tvg-logo="https://acortar.link/JVmjMo" tvg-group="Películas", Las Locuras Del Emperador
+#EXTINF:-1 tvg-logo="https://acortar.link/JVmjMo" tvg-group="Movie", Las Locuras Del Emperador
 https://uqload.com/embed-f4ocozx17wmo.html
 
 
