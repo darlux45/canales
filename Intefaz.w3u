@@ -1,1 +1,38 @@
-
+{
+ 
+"nombre": "PELÍCULAS 2018&19",
+ 
+"autor": "listaswiseplay.com",
+ 
+"url": "",
+ 
+"imagen": "https://cdn2www.mundo.com/fotos/201504/Ashley-benson-pretty-little-liars-hanna-watching-tv.gif",
+ 
+ 
+"estaciones": [
+{
+                    "name": "Todas las listas wiseplay actualizadas",
+                    "image": "https://listaswiseplay.com/wp-content/uploads/2018/01/cropped-listas-wiseplay-logo.png",
+                    "url": "https://listaswiseplay.com/",
+                    "incrustar": "verdadero",
+                    "playInNatPlayer": "verdadero",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/69.0.3497.100 Safari/537.36"
+                },
+ 
+{
+ 
+                    "name": "Reseña: Godzilla - Devorador de Planetas",
+                    "imagen": "https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5c8863a0be320_gC8gm2anRjOhVpAgnbQG0meRuKl.jpg",
+                    "url": "https://content-na.drive.amazonaws.com/cdproxy/share/CVSq0z3d6P3c6ENuXCTKQyySVscvJSxQdYWo5jJOERc/nodes/IIZQ5ttsQDyl1b3cGs0j1Q?nonce=oeYX436wXUGHk-8LyN6fqQfG4iATSRVTqCDIWxtKECka-8LyN6fqQfG4iATSRVTqCDIWxtZETKAtl",
+                    "incrustar": "verdadero",
+                    "playInNatPlayer": "verdadero"
+ 
+},
+{
+                    "name": "Vengadores: Infinity War",
+                    "imagen": "https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5d4a6e7af084f_q6Q81fP4qPvfQTH2Anlgy12jzO2.jpg",
+                    "url": "http://gamovideo.com/mk805n3pqcyf",
+                    "incrustar": "verdadero",
+                    "playInNatPlayer": "verdadero"
+ 
+},
