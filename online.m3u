@@ -155,9 +155,8 @@ https://cloudvideo.servers10.com:8081/8168/index.m3u8
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="" group-title="Musica",
+#EXTINF:-1 tvg-logo="https://acortar.link/OFrh7T" group-title="Musica",Spirit tv
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Musica",
 
