@@ -32,7 +32,7 @@ https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w781411635.m3u8
 
 --------------ATV+------------
 #EXTINF:-1 tvg-logo="https://onx.la/844c4" group-title="Streaming",Atv +
-https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
+https://atvmas.akamaized.net/hls/live/2101282/atvmas/master.m3u8
 
 --------TOP LATINO-------
 #EXTINF:-1 tvg-logo="https://onx.la/e09c5" group-title="Streaming",Top Latino
