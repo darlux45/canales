@@ -176,9 +176,9 @@ https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w380490534.m3u8?W
 #EXTINF:-1 tvg-logo="https://acortar.link/3RRooQ" group-title="Entretenimiento",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-------------------KBO-----------------
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMX3UOdCHcmTSutgJ4VN5dsEtZ6T2wGREPXg&usqp=CAU" group-title="Entretenimiento",KBO
-https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
+------------------Andes Tv-----------------
+#EXTINF:-1 tvg-logo="https://onx.la/5d769" group-title="Entretenimiento",Andes Tv
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 
 ------------------Anzoategui TV---------------
 #EXTINF:-1 tvg-logo="https://onx.la/20f43" group-title="Entretenimiento",Anzoategui TV
