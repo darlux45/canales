@@ -185,7 +185,7 @@ https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 http://vcp1.myplaytv.com:1935/anzoateguitv/anzoateguitv/chunklist_w2080007100.m3u8
 
 #EXTINF:-1 tvg-logo="https://onx.la/9c625" group-title="Entretenimiento",Onda Digital tv
-https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://onx.la/4415b" group-title="Entretenimiento",Uranio Tv
 https://live.obslivestream.com/uraniomux/tracks-v1a1/mono.m3u8
