@@ -191,7 +191,7 @@ https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 https://live.obslivestream.com/uraniomux/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://acortar.link/9WocZH" group-title="Entretenimiento",Unitel HD
-https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/chunklist_w2000926026.m3u8
+https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 
 #EXTINF:-1 tvg-logo="https://onx.la/49ac5" group-title="Entretenimiento",Canal Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
