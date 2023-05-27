@@ -28,7 +28,10 @@ https://channelsclarovideo.blitzz07.repl.co/la_tele.html
 
 ----------GLOBAL TV---------
 #EXTINF:-1 tvg-logo="https://onx.la/d2148" group-title="Streaming",Global TV
-http://190.108.83.142:8000/play/a00x/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cyOskVNva1B0CbgGCJPXgg","kid":"3LrhaHs4UReZa8Lcxl85Kg"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1133/manifest.mpd
 
 ----------TV COSMOS---------
 #EXTINF:-1 tvg-logo="https://onx.la/aa161" group-title="Streaming",TV Cosmos
