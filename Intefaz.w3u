@@ -1,18 +1,19 @@
 {
- "name": "Premier"
- "autor": "Online.net"
- "image": "https://cdn.dribbble.com/users/1473736/screenshots/4106177/logo-animated.gif"
+ "name": "Premier",
+ "autor": "Online.net",
+ "image": "https://cdn.dribbble.com/users/1473736/screenshots/4106177/logo-animated.gif",
  "groups": [
 
+
    {
-     "name": "Streaming"
-     "image": "http://i.kinja-img.com/gawker-media/image/upload/awnbvkta99ky9gssh7cn.gif"
+     "name": "Streaming",
+     "image": "http://i.kinja-img.com/gawker-media/image/upload/awnbvkta99ky9gssh7cn.gif",
      "stations": [
 
        {
-         "name": "Atv"
-         "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png"
-         "url": "https://atvperu.akamaized.net/hls/live/2100630/atv/master.m3u8"     
+         "name": "Atv",
+         "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png",
+         "url": "https://atvperu.akamaized.net/hls/live/2100630/atv/master.m3u8"
         }
 
 
