@@ -14,6 +14,11 @@
          "name": "Atv",
          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png",
          "url": "https://atvperu.akamaized.net/hls/live/2100630/atv/master.m3u8"
+        },
+        {
+          "name": "La Tele"
+          "image": ""
+          "url": ""
         }
 
 
