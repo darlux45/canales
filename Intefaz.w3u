@@ -25,7 +25,7 @@
           "name": "America TV",
           "image": "https://pluspng.com/img-png/logo-america-tv-png-file-america-television-logo-2016-png-1261.png",
           "Live": "false",
-          "streamFormat": "dash",
+          "type": "dash",
           "drm": {
 					      "clearkey": {"keys":[{"kty":"oct","k":"i02D4sOCeAymFc5s1nVNeQ","kid":"ufxaFTgrNYGJBOy-7VRf0A"}],"type":"temporary"}
 			           	},
