@@ -134,7 +134,7 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://onx.la/5f60c" group-title="Musica",Mola TV
-http://www.ventdelnord.tv/molahits
+http://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-tgkESVUJWRI/XkyfsBVW_mI/AAAAAAAAwHw/xsYoralOutAlHw-iMJC9nl1hdd6vKqznQCK8BGAsYHg/s0/2020-02-18.png" group-title="Musica",Genial TV
 https://v1.tustreaming.cl:19360/genialtv/genialtv.m3u8
@@ -142,8 +142,8 @@ https://v1.tustreaming.cl:19360/genialtv/genialtv.m3u8
 #EXTINF:-1 tvg-logo="https://onx.la/8ed27" group-title="Musica",Karibeña tv
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://onx.la/9c625" group-title="Musica",Onda Digital TV
-https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://acortar.link/Np5OGi" group-title="Musica",Tierramia TV
+https://live-edge01.telecentro.net.ar////live/smil:trm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://onx.la/99b94" group-title="Musica",Radio San Borja TV
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
