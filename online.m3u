@@ -184,13 +184,13 @@ https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 
 ------------------Anzoategui TV---------------
 #EXTINF:-1 tvg-logo="https://onx.la/20f43" group-title="Entretenimiento",Anzoategui TV
-http://vcp1.myplaytv.com:1935/anzoateguitv/anzoateguitv/chunklist_w2080007100.m3u8
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://onx.la/9c625" group-title="Entretenimiento",Onda Digital tv
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://onx.la/4415b" group-title="Entretenimiento",Uranio Tv
-https://live.obslivestream.com/uraniomux/tracks-v1a1/mono.m3u8
+https://live.obslivestream.com/uraniotv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://acortar.link/9WocZH" group-title="Entretenimiento",Unitel HD
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
@@ -244,9 +244,8 @@ https://servilive.com:3079/live/cdnatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://onx.la/da840" group-title="Infantil",Latino kids tv
 https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8?PlaylistM3UCL
 
-------------KNAL4-----------
-#EXTINF:-1 tvg-logo="https://acortar.link/uWloN9" group-title="Infantil",Knal 4
-https://cdn.streamhispanatv.net:3261/live/knal4gtlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infantil",
+
 
 ------------------PLANETATV KIDS------------
 #EXTINF:-1 tvg-logo="https://acortar.link/VwY2p3" group-title="Infantil",PLANETATV KIDS
