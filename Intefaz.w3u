@@ -26,7 +26,7 @@
           "image": "https://pluspng.com/img-png/logo-america-tv-png-file-america-television-logo-2016-png-1261.png",
           "Live": "false",
           "type": "dash",
-          "drm": {
+          "org.w3.clearkey": {
 					      "clearkey": "https://listasm3u.live/keys3/americatv.json"
 			           	},
           "url": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1011",
