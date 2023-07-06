@@ -27,7 +27,7 @@
           "Live": "false",
           "type": "dash",
           "org.w3.clearkey": {
-					      "clearkey": "https://listasm3u.live/keys3/americatv.json"
+					      "clearkeys": "{"keys":[{"kty":"oct","k":"i02D4sOCeAymFc5s1nVNeQ","kid":"ufxaFTgrNYGJBOy-7VRf0A"}],"type":"temporary"}"
 			           	},
           "url": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1011",
           "UserAgent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
