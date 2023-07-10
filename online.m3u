@@ -317,7 +317,7 @@ https://anbalancer.express.com.ar/live/c1eds/TNT_HD/SA_DASH_cipix/TNT_HD.mpd
 https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://onx.la/2ad1e" group-title="Premium",UNIVERSAL
-#KODIPROP:inputstream.adaptive.stream_headers=Referer-value="https://nowtv.express.com.ar/"
+#EXTVLCOPT:http-referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
