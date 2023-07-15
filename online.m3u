@@ -26,10 +26,14 @@ https://d22ast2s6i1kcc.cloudfront.net/hls/atv.m3u8
 
 -------PANAMERICANA----------
 #EXTINF:-1 tvg-logo="https://acortar.link/wqXCg1" group-title="Streaming",Panamericana
-https://cdnh71.iblups.com/hls/ptv2.m3u8
+https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFn32o8RAClzd_7XwrCJaU1ov7sr10s2lqKHAP6s4C7tu)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
 
 -------------LATINA--------------
 #EXTINF:-1 tvg-logo="https://acortar.link/gKl35h" group-title="Streaming",Latina
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jqExYT-Wi5wrB9LQjOXvRA","kid":"F09fLugZNiS-yd2OXVB6ZA"}],"type":"temporary"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1157
 https://mdstrm.com/live-stream/5ce7109c7398b977dc0744cd?autoplay=false&player=60351d053a482d07eeef8770
 
 -----------LA TELE----------
@@ -158,9 +162,8 @@ https://live-edge01.telecentro.net.ar////live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://onx.la/99b94" group-title="Musica",Radio San Borja TV
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 
-----------------Charapa TV-------------------
-#EXTINF:-1 tvg-logo="https://acortar.link/COz3wi" group-title="Musica",Charapa TV
-https://cloudvideo.servers10.com:8081/8168/index.m3u8
+#EXTINF:-1 tvg-logo="https://acortar.link/jtgVy4" group-title="Musica",VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 ------------------Lot-Plus tv-----------------
 #EXTINF:-1 tvg-logo="https://acortar.link/PEFVlH" group-title="Musica",Tu musica HD
