@@ -2,15 +2,6 @@
 
 ///////////PERU////////
 
-#EXTINF:-1 tvg-id="CanalCatorce.mx" tvg-name="Canal Catorce" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" group-title="Mexico",Canal Catorce (720p)
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
-
-#EXTINF:-1 tvg-id="XHBJTDT.mx" tvg-name="Canal 45" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Canal45Tijuana.png" group-title="Mexico",Canal 45 (XHBJ-TDT)
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhbj-tdt.m3u8
-
-#EXTINF:-1 tvg-id="CanalCatorce.mx" tvg-name="Canal Catorce" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" group-title="Mexico",Canal Catorce (720p)
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
-
 -----------AMERICA TV---------
 #EXTINF:-1 tvg-logo="https://acortar.link/i1qgJ8" group-title="Streaming",America TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -26,7 +17,7 @@ https://d22ast2s6i1kcc.cloudfront.net/hls/atv.m3u8
 
 -------PANAMERICANA----------
 #EXTINF:-1 tvg-logo="https://acortar.link/wqXCg1" group-title="Streaming",Panamericana
-https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFn32o8RAClzd_7XwrCJaU1ov7sr10s2lqKHAP6s4C7tu)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
+https://cdnh74.iblups.com/hls/ptv2.m3u8
 
 -------------LATINA--------------
 #EXTINF:-1 tvg-logo="https://acortar.link/gKl35h" group-title="Streaming",Latina
