@@ -133,6 +133,7 @@ https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8?WebM3UCL
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://onx.la/0c1aa" group-title="Musica",Music top
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0 (Edition Campaign 34)"
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/Carolina-TV-en-vivo-Online.png" group-title="Musica",Carolina TV
