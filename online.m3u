@@ -351,11 +351,7 @@ https://anbalancer.express.com.ar/live/c1eds/CINECANAL_HD/SA_DASH_cipix/CINECANA
 https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://acortar.link/OUT9mj" group-title="Premium",Space
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7UNH9JX5stg61Ta1tebIhQ","kid":"r3fvc7qjSfuwQWZiBBirIQ"}],"type":"temporary"}
-https://anbalancer.express.com.ar/live/c1eds/Space_HD/SA_DASH_cipix/Space_HD.mpd
+https://anbalancer.express.com.ar/live/c1eds/Space_HD/SA_DASH_cipix/Space_HD.mpd|license_type=org.w3.clearkey&license_key={"keys":[{"kty":"oct","k":"7UNH9JX5stg61Ta1tebIhQ","kid":"r3fvc7qjSfuwQWZiBBirIQ"}],"type":"temporary"}&referer=https://nowtv.express.com.ar/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WsBhsDZ/ar-paramount-channel-m.png" group-title="Premium", PARAMOUNT
 #KODIPROP: inputstream.adaptive.manifest_type=mpd
