@@ -32,9 +32,10 @@ https://mdstrm.com/live-stream/5ce7109c7398b977dc0744cd?autoplay=false&player=60
 https://channelsclarovideo.blitzz07.repl.co/la_tele.html
 
 #EXTINF:-1 tvg-logo="https://onx.la/cfb57" group-title="Streaming",La Tele
+#EXTVLCOPT:http-referrer=https://clarovideo.canales.online/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"key":"NTY3ZTYwM2FhNTkzZmQyYTMzYTVlYmJiZjEzZWIzYjU","kid":"ODQ2ZjEyYjkzNjZlZGUwYjYzZjI4NzNmMTFhZGNiYjU"}]}
+#KODIPROP:inputstream.adaptive.license_key=567e603aa593fd2a33a5ebbbf13eb3b5:846f12b9366ede0b63f2873f11adcbb5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0 (Edition Campaign 34)
 https://pelivechannelsdash-1.clarovideo.com/bpk-tv/LATELE/dash_fk/index.mpd
 
