@@ -1,9 +1,9 @@
 #EXTM3U
 
-///////////PERU////////
+{PERÚ}
 
------------AMERICA TV---------
-#EXTINF:-1 tvg-logo="https://acortar.link/i1qgJ8" group-title="Streaming",America TV
+[AMERICA TV]
+#EXTINF:-1 tvg-logo="https://acortar.link/i1qgJ8" group-title=>>Film>>,America TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3 .clearkey
@@ -11,16 +11,16 @@
 #EXTVLCOPT:User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1011
 
------------ATV----------
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Streaming",ATV
+[ATV]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title=>>Film>>,ATV
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv.m3u8
 
--------PANAMERICANA----------
-#EXTINF:-1 tvg-logo="https://acortar.link/wqXCg1" group-title="Streaming",Panamericana
+[PANAMERICANA]
+#EXTINF:-1 tvg-logo="https://acortar.link/wqXCg1" group-title="Film",Panamericana
 https://cdnh74.iblups.com/hls/ptv2.m3u8
 
--------------LATINA--------------
-#EXTINF:-1 tvg-logo="https://acortar.link/gKl35h" group-title="Streaming",Latina
+[LATINA]
+#EXTINF:-1 tvg-logo="https://acortar.link/gKl35h" group-title="Film",Latina
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jqExYT-Wi5wrB9LQjOXvRA","kid":"F09fLugZNiS-yd2OXVB6ZA"}],"type":"temporary"}
@@ -29,7 +29,7 @@ https://mdstrm.com/live-stream/5ce7109c7398b977dc0744cd?autoplay=false&player=60
 
 https://channelsclarovideo.blitzz07.repl.co/la_tele.html
 
-#EXTINF:-1 tvg-logo="https://onx.la/cfb57" group-title="Streaming",La Tele
+#EXTINF:-1 tvg-logo="https://onx.la/cfb57" group-title="Film",La Tele
 #EXTVLCOPT:http-referrer=https://clarovideo.canales.online/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -381,8 +381,16 @@ https://dtvott-abc.akamaized.net/dash_live_1110/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"morR3c_i0gxXhR-hIuAeOQ","kid":"8ac_DN6lTXCcdNsy0qBiKQ"}],"type":"temporary"}
-https://anbalancer.express.com.ar/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/Studio_Universal_HD.mpd
+https://anbalancer.express.com.ar/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/Studio_Universal_HD.MPD
 
+#EXTINF:-1 vtvg-logo="https://acortar.link/DaCsbO" group-title="Premium",DHE
+#EXTVLCOPT:http-referrer= https://nowtv.express.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key= { "keys": [ { "kty": "oct", "k": "RbRQi78MAr9SMQQVfiztgQ", "kid": "R3KW4op/SSaKvEVoW4tpow" } ], "type": "temporary" }
+https://anbalancer.express.com.ar/live/c1eds/DHE_HD/SA_DASH_cipix/DHE_HD.mpd
+
+vtvg-logo="" group-title="Premium",
 vtvg-logo="" group-title="Premium",
 
 
