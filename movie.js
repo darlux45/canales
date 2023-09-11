@@ -32,7 +32,7 @@
 
     function rezka2Mirror() {
       var url = Lampa.Storage.get('online_mod_rezka2_mirror', '');
-      if (!url) return 'https://ww3.pelisplus.to/';
+      if (!url) return 'https://rezka.ag/';
       if (url.indexOf('://') == -1) url = 'https://' + url;
       if (url.charAt(url.length - 1) != '/') url += '/';
       return url;
@@ -40,7 +40,7 @@
 
     function kinobaseMirror() {
       var url = Lampa.Storage.get('online_mod_kinobase_mirror', '');
-      if (!url) return 'https://kinobase.org/';
+      if (!url) return 'https://ver.cuevana3cc.me/';
       if (url.indexOf('://') == -1) url = 'https://' + url;
       if (url.charAt(url.length - 1) != '/') url += '/';
       return url;
