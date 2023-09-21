@@ -134,10 +134,10 @@ https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://onx.la/0c1aa" group-title="Musica",Music top
 #EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0 (Edition Campaign 34)
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1543889056_b964000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/Carolina-TV-en-vivo-Online.png" group-title="Musica",Carolina TV
-https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://acortar.link/p3ZqfI" group-title="Musica",Trace Latina
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/9df0ced8-83c9-44d0-b0d4-93718a0d3cec/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://onx.la/5f60c" group-title="Musica",Mola TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
