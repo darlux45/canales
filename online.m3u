@@ -117,7 +117,7 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/MSosja" group-title="Musica",Activa Tv
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MfYGt6f-FNQ/XmWIp_jDYpI/AAAAAAAAwsg/7Yn3jbMYdRIJWMFC3S1YbS2hQT3XBMiOgCK8BGAsYHg/s0/2020-03-08.png" group-title="Musica",Radio Kpop
+/#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MfYGt6f-FNQ/XmWIp_jDYpI/AAAAAAAAwsg/7Yn3jbMYdRIJWMFC3S1YbS2hQT3XBMiOgCK8BGAsYHg/s0/2020-03-08.png" group-title="Musica",Radio Kpop
 https://tls-cl.cdnz.cl/adgm-2/live/chunklist_w408812895.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-F0CYLyk3J_M/XxzNduxMoVI/AAAAAAAA3Zk/3S772u4F4jER7F0bULY-hlG7Nn9bbGa7gCK8BGAsYHg/s0/2020-07-25.png" group-title="Musica",VC Online
