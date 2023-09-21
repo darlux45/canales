@@ -120,14 +120,14 @@ https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MfYGt6f-FNQ/XmWIp_jDYpI/AAAAAAAAwsg/7Yn3jbMYdRIJWMFC3S1YbS2hQT3XBMiOgCK8BGAsYHg/s0/2020-03-08.png" group-title="Musica",Radio Kpop
 https://tls-cl.cdnz.cl/adgm-2/live/chunklist_w408812895.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-F0CYLyk3J_M/XxzNduxMoVI/AAAAAAAA3Zk/3S772u4F4jER7F0bULY-hlG7Nn9bbGa7gCK8BGAsYHg/s0/2020-07-25.png" group-title="Musica",Tv vconline
-https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-F0CYLyk3J_M/XxzNduxMoVI/AAAAAAAA3Zk/3S772u4F4jER7F0bULY-hlG7Nn9bbGa7gCK8BGAsYHg/s0/2020-07-25.png" group-title="Musica",VC Online
+https://panel.tvstream.cl:1936/8024/8024/chunklist_w1918987959.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BET4REPGZKQ/X96Yzr-NKCI/AAAAAAAA8Wo/jNg4hNxYQP0gmIeRnv8mBt4_GfNyGkGnQCK8BGAsYHg/s0/2020-12-19.png" group-title="Musica",Tv Exitos
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png" group-title="Musica",Mas Cumbia
-https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8?WebM3UCL
+https://mi.godo.net.pe/best-MasCum-0102210011/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png" group-title="Musica",Turbo Mix Tv
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?WebM3UCL
@@ -146,7 +146,7 @@ http://ventdelnord.tv:8080/mola/directe.m3u8
 https://v1.tuFilm.cl:19360/genialtv/genialtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://onx.la/8ed27" group-title="Musica",Karibeña tv
-https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
+https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w416877289.m3u8
 
 #EXTINF:-1 tvg-logo="https://acortar.link/Np5OGi" group-title="Musica",Tierramia TV
 https://live-edge01.telecentro.net.ar////live/smil:trm.smil/playlist.m3u8
@@ -165,7 +165,15 @@ https://vdo2.streamgato.us:3886/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/OFrh7T" group-title="Musica",Spirit tv
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Musica",
+#EXTINF:-1 tvg-logo="https://acortar.link/CIhg9e" group-title="Musica",Kpop TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1734813315.m3u8
+
+/#EXTINF:-1 tvg-logo="" group-title="Musica",
+
+
+/#EXTINF:-1 tvg-logo="" group-title="Musica",
+/#EXTINF:-1 tvg-logo="" group-title="Musica",
+/#EXTINF:-1 tvg-logo="" group-title="Musica",
 
 
 
