@@ -168,12 +168,12 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/CIhg9e" group-title="Musica",Kpop TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1734813315.m3u8
 
-/#EXTINF:-1 tvg-logo="" group-title="Musica",
+#EXTINF:-1 tvg-logo="https://acortar.link/ONNsqj" group-title="Musica",Canela Music
+https://stream.ads.ottera.tv/cl/230921ck5stm4h32dnqf72bocg/1280x720_3071200_0_f.m3u8?i=475_1058
 
-
-/#EXTINF:-1 tvg-logo="" group-title="Musica",
-/#EXTINF:-1 tvg-logo="" group-title="Musica",
-/#EXTINF:-1 tvg-logo="" group-title="Musica",
+EXTINF:-1 tvg-logo="" group-title="Musica",
+EXTINF:-1 tvg-logo="" group-title="Musica",
+EXTINF:-1 tvg-logo="" group-title="Musica",
 
 
 
