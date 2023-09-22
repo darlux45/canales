@@ -77,8 +77,12 @@ https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w105
 #EXTVLCOPT:http-referrer=https://rudo.video/
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://acortar.link/sNeJZv" group-title="Premium",Crónica Tv
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
+https://g4.vxral-slo.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+
 -----------IPE----------
-#EXTINF:-1 tvg-logo="https://acortar.link/m4Kpdt" group-title="Film",Ipe
+EXTINF:-1 tvg-logo="https://acortar.link/m4Kpdt" group-title="Film",Ipe
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 
 -----------GENIOS TV----------
@@ -136,7 +140,7 @@ https://mi.godo.net.pe/best-MasCum-0102210011/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png" group-title="Musica",Turbo Mix Tv
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://onx.la/0c1aa" group-title="Musica",Music top
+#EXTINF:-1 tvg-logo="https://acortar.link/3nYDqH" group-title="Musica",Music top
 #EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0 (Edition Campaign 34)
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1543889056_b964000_sleng.m3u8
 
