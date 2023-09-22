@@ -65,9 +65,9 @@ https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/ind
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png" group-title="Film",Antares Tv
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1033447876.m3u8
 
----------ANIME ZONE TV-------
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ3NmFjYjQtNzM2Yi00NDEyLTgzYjMtMzFjODAwMjg2NzUzXkEyXkFqcGdeQXVyNjM2NDIwMzQ@._V1_.jpg" group-title="Film",Anime Zone TV
-http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://acortar.link/nUcCK2" group-title="Film",TEC
+#EXTVLCOPT:http-referrer=https://tv.initium.net.ar/
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
 -----------VISIOM TV MUSICA---------
 #EXTINF:-1 tvg-logo="https://acortar.link/8dwcDU" group-title="Film",Vision Tv Musica
