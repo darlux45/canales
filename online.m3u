@@ -150,8 +150,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-logo="https://onx.la/5f60c" group-title="Musica",Mola TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-tgkESVUJWRI/XkyfsBVW_mI/AAAAAAAAwHw/xsYoralOutAlHw-iMJC9nl1hdd6vKqznQCK8BGAsYHg/s0/2020-02-18.png" group-title="Musica",Genial TV
-https://v1.tuFilm.cl:19360/genialtv/genialtv.m3u8
+#EXTINF:-1 tvg-logo="https://acortar.link/TfvXWE" group-title="Musica",Genial TV
+https://v1.tustreaming.cl:19360/genialtv/genialtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://onx.la/8ed27" group-title="Musica",Karibeña tv
 https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w416877289.m3u8
@@ -179,11 +179,23 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1734813315.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/ONNsqj" group-title="Musica",Canela Music
 https://stream.ads.ottera.tv/cl/230921ck5stm4h32dnqf72bocg/1280x720_3071200_0_f.m3u8?i=475_1058
 
-EXTINF:-1 tvg-logo="" group-title="Musica",
-EXTINF:-1 tvg-logo="" group-title="Musica",
-EXTINF:-1 tvg-logo="" group-title="Musica",
+#EXTINF:-1 tvg-logo="https://acortar.link/iv7O46" group-title="Musica",4fun tv
+#EXTVLCOPT:http-referrer=https://4fun.tv/
+https://stream.4fun.tv:8888/hls/4f.m3u8
+
+#EXTINF:-1 tvg-logo="https://acortar.link/dtCQJy" group-title="Musica",Heinow
+#EXTVLCOPT:http-referrer=https://gentv.desdepylabs.com/
+https://rds3gen.desdeparaguay.net/heitv/heitv_int_alta/playlist.m3u8?k=2c7ee29f8cf7ca7b460cea4834fcc930977370e6fa33a68cf1638b4da3a53dfb&exp=1695355205
+
+#EXTINF:-1 tvg-logo="https://acortar.link/U0WkI2" group-title="Musica",Teleritmo
+https://mdstrm.com/live-stream/57b4dc126338448314449d0c
 
 
+EXTINF:-1 tvg-logo="" group-title="Musica",
+EXTINF:-1 tvg-logo="" group-title="Musica",
+EXTINF:-1 tvg-logo="" group-title="Musica",
+EXTINF:-1 tvg-logo="" group-title="Musica",
+EXTINF:-1 tvg-logo="" group-title="Musica",
 
 {ENTRETENIMIENTO}
 
@@ -247,9 +259,11 @@ https://mdstrm.com/live-stream/57b4dbf5dbbfc8f16bb63ce1
 #EXTINF:-1 tvg-logo="https://acortar.link/T98PXf" group-title="Entretenimiento",Cadena TV
 https://servilive.com:3079/live/cdnatvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://acortar.link/EYg5bU" group-title="Entretenimiento",Eltrece
+#EXTVLCOPT:http-referrer=https://www.eltrecetv.com.ar/
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
