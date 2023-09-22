@@ -73,11 +73,11 @@ http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/8dwcDU" group-title="Film",Vision Tv Musica
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w1052591118.m3u8
 
-#EXTINF:-1 tvg-logo="https://acortar.link/O1ysVF" group-title="Premium",Net Tv
+#EXTINF:-1 tvg-logo="https://acortar.link/O1ysVF" group-title="Film",Net Tv
 #EXTVLCOPT:http-referrer=https://rudo.video/
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://acortar.link/sNeJZv" group-title="Premium",Crónica Tv
+#EXTINF:-1 tvg-logo="https://acortar.link/sNeJZv" group-title="Film",Crónica Tv
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
 https://g4.vxral-slo.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
