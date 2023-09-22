@@ -81,9 +81,9 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
 https://g4.vxral-slo.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
------------IPE----------
-EXTINF:-1 tvg-logo="https://acortar.link/m4Kpdt" group-title="Film",Ipe
-https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
+EXTINF:-1 tvg-logo="https://acortar.link/OqTejR" group-title="Film",El Tres TV
+#EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
+https://www.dailymotion.com/embed/video/x8aobf1?autoplay=1
 
 -----------GENIOS TV----------
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/geniostvmoyobamba/picture?width=320&height=320" group-title="Film",Genios TV
