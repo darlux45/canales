@@ -24,12 +24,7 @@
         {
           "name": "America TV",
           "image": "https://pluspng.com/img-png/logo-america-tv-png-file-america-television-logo-2016-png-1261.png",
-          "Live": "false",
-          "type": "dash",
-          "org.w3.clearkey": {
-	      "clearkeys": "{"keys":[{"kty":"oct","k":"i02D4sOCeAymFc5s1nVNeQ","kid":"ufxaFTgrNYGJBOy-7VRf0A"}],"type":"temporary"}"
-			           	},
-          "url": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1011",
+          "url": "https://embed.telextrema.com/embed2/golden.html",
           "UserAgent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
         }
 
