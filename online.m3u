@@ -350,18 +350,20 @@ https://channels123.futbolenvivo.xyz/streams5/manifest.mpd?id=FOX_HD
 https://anbalancer.express.com.ar/live/c1eds/Universal_Channel_HD/SA_DASH_cipix/Universal_Channel_HD.mpd
 
 #EXTINF:-1 tvg-logo="https://onx.la/b2264" group-title="Premium",HBO
+#EXTVLCOPT:http-referrer="https://latamvosliveclarovideo.akamaized.net/"
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bCPjGk2DtWjoSuxgmmPryQ","kid":"me78Bo2zUJufDPWzQRQhnQ"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"k": "sbE4ifcalpAsKFgjAhY6XA", "kty": "oct", "kid": "JMKk346N3RdmYcpuDWGyaw" }], "type": "temporary", "ul": "", "pl": ""}
+https://channels123.futbolenvivo.xyz/streams5/manifest.mpd?id=HBO_HD_MX
 
 #EXTINF:-1 tvg-logo="https://onx.la/7d429" group-title="Premium",HBO 2
+#EXTVLCOPT:http-referrer="https://latamvosliveclarovideo.akamaized.net/"
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"usWBim4RNds8nyT7dS9pnw","kid":"KirtF9xgUPud7m5loGs5JQ"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1137/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"k": "Apx_EomTA0rf5LxOlRQEJA", "kty": "oct", "kid": "LSNIe1uIHkS6D6uXWf2Fow" }], "type": "temporary", "ul": "", "pl": ""}
+https://channels123.futbolenvivo.xyz/streams5/manifest.mpd?id=HBO2_HD_MX
 
-#EXTINF:-1 tvg-logo="https://onx.la/26eab" group-title="Premium",HBO Family
+#EXTINF:-1 tvg-logo="https://onx.la/34ed7" group-title="Premium",HBO Family
 #EXTVLCOPT:http-referrer="https://latamvosliveclarovideo.akamaized.net/"
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
