@@ -390,10 +390,11 @@ https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
 https://anbalancer.express.com.ar/live/c1eds/Space_HD/SA_DASH_cipix/Space_HD.mpd
 
 #EXTINF:-1 tvg-logo="https://acortar.link/9l569k" group-title="Premium", PARAMOUNT
-#KODIPROP: inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer="https://latamvosliveclarovideo.akamaized.net/"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YQyVFzfLniIfB8mGtsZvfQ","kid":"aBiLO7eUU8q3sm7pKaJe1A"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1181/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"k": "CVsnjP5lpeRnufKmk9sNEg", "kty": "oct", "kid": "oo_eaQjgsNAxMkmGYX1pow" }], "type": "temporary", "ul": "", "pl": ""}
+https://channels123.futbolenvivo.xyz/streams5/manifest.mpd?id=PARAMOUNT_HD
 
 #EXTINF:-1 tvg-logo="https://acortar.link/NliMGU" group-title="Premium",FX
 #EXTVLCOPT:http-referrer=https://nowtv.express.com.ar/
