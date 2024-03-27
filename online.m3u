@@ -321,11 +321,7 @@ https://anedgeros.express.com.ar/live/c1eds/Warner_Channel_HD/SA_DASH_cipix/Warn
 https://anbalancer.express.com.ar/live/c1eds/Cinemax/SA_DASH_cipix/Cinemax.mpd
 
 #EXTINF:-1 tvg-logo="https://onx.la/5bd3c" group-title="Premium",Sony Channel
-#EXTVLCOPT:http-referrer="https://latamvosliveclarovideo.akamaized.net/"
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"LrN9rsu0OOWMMWZGtxX8gg","kty":"oct","kid": "srRden2wc3DzocXpFkawYg"}],"type":"temporary","ul":"","pl":""}
-https://channels123.futbolenvivo.xyz/streams5/manifest.mpd?id=SONY_HD
+plugin:https://clarovideo.deportesporinternet.com/dash2.html?url=aHR0cHM6Ly9wZWxpdmVjaGFubmVsc2Rhc2gtNy5jbGFyb3ZpZGVvLmNvbS9icGstdHYvU09OWUhEL2Rhc2hfZmsvaW5kZXgubXBk&k1=ZmZmY2NiMDFiOTNlMTYyMDZkYTE3YzYyZWQyZmM1ZDM=&k2=Y2YxZGYzMjFjNTUxNjliNDk3MWY0ZTMwMDdjYmQ5NmY=&aut=true&lang=0
 
 #EXTVLCOPT:http-referrer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream=inputstream.adaptive
