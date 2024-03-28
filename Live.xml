@@ -1,0 +1,31 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>Canales Online</title>
+<description>Example channel description.</description>
+<lastBuildDate>Thu May 19 2022 00:00:00 GMT+0200</lastBuildDate>
+<language>es</language>
+<image>
+<url>http://msx.benzac.de/img/icon.png</url>
+</image>
+<item>
+<guid>plugin1</guid>
+<pubDate>Thu May 19 2022 00:00:00 GMT+0200</pubDate>
+<media:title>Plugin 1 (YouTube)</media:title>
+<media:category>MRSS</media:category>
+<media:category>YouTube</media:category>
+<media:category>Plugin</media:category>
+<media:thumbnail url="https://img.youtube.com/vi/PRy2CFVlPOA/hqdefault.jpg"/>
+<media:content url="plugin:https://clarovideo.deportesporinternet.com/dash2.html?url=aHR0cHM6Ly8xMDExLXZvcy5kdHZvdHQuY29tL0RBU0gvbWFuaWZlc3QubXBk&k1=MTkxY2I3N2RjNjIyMzlkYjg3NTk2ZGVjNjJjOWI5OGY=&k2=OWFlYTVmMDk3NjAzYjNkYzkxOWJhODY2OTRjMWEzOWQ=" medium="video" duration="10837"/>
+</item>
+<item>
+<guid>plugin1</guid>
+<pubDate>Thu May 19 2022 00:00:00 GMT+0200</pubDate>
+<media:title>Plugin 2 (YouTube)</media:title>
+<media:category>MRSS</media:category>
+<media:category>YouTube</media:category>
+<media:category>Plugin</media:category>
+<media:thumbnail url="https://img.youtube.com/vi/PRy2CFVlPOA/hqdefault.jpg"/>
+<media:content url="plugin:http://msx.benzac.de/plugins/youtube.html?id=PRy2CFVlPOA" medium="video" duration="10837"/>
+</item>
+</channel>
+</rss>
